@@ -105,7 +105,7 @@ body {
 
 }
 .container.active .sign-in {
-    /*MOVE UM ELEMENTO HORIZONTALMENTE, DESLOCANDO-O 100% DA SUA LARGURA TOTAL EM RELAÇÃO À SUA POSIÇÃO ORIGINAL*/
+    /*MOVE UM ELEMENTO HORIZONTALMENTE (translateX(horizontalmente), translateY(verticalmente)), DESLOCANDO-O 100% DA SUA LARGURA TOTAL EM RELAÇÃO À SUA POSIÇÃO ORIGINAL*/
     transform: translateX(100%);
 }
 .sign-up {
