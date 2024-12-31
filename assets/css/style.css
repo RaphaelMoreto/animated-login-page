@@ -23,6 +23,7 @@ body {
     /*AJUSTA A POSIÇÃO DO ELEMENTO DE ACORDO COM O TAMANHO DA TELA GARANTINDO UM ESPAÇO RESERVADO*/
     position: relative;
 
+    //O ESTOURO FICA INVISÍVEL QUANDO SAI DAS LIMITAÇÕES
     overflow: hidden;
     width: 768px;
 
